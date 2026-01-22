@@ -3,7 +3,7 @@
 A modern, interactive web application that uses string manipulation and cyclic elimination logic to calculate compatibility based on the classic "FLAMES" game. Built with a focus on clean UI/UX and real-time data tracking.
 
 [Image of a clean, aesthetic web app user interface with pink and purple gradients]
-
+ 
 ## Features
 
 - **Strict Validation:** Custom Regex logic to prevent numeric or special character inputs.
