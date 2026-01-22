@@ -11,7 +11,7 @@ A modern, interactive web application that uses string manipulation and cyclic e
 - **Modern UI:** Responsive design built with React, Tailwind CSS, and Framer Motion.
 - **Data Persistence:** Integrated with **Supabase** to track and log calculation results in real-time.
 
-## Tech Stack
+## Tech Stack 
 
 - **Frontend:** React.js, Tailwind CSS
 - **Animations:** Framer Motion
