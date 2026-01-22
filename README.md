@@ -6,6 +6,8 @@ A modern, interactive web application that uses string manipulation and cyclic e
  
 ## Features
 
+
+ 
 - **Strict Validation:** Custom Regex logic to prevent numeric or special character inputs.
 - **Classic Algorithm:** Implements the character-cancellation and cyclic "FLAMES" elimination process.
 - **Modern UI:** Responsive design built with React, Tailwind CSS, and Framer Motion.
