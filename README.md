@@ -1,3 +1,18 @@
+<!-- DHIVA-HEADER -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=170&section=header&text=FLAMES&fontSize=46&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&width=600&lines=The%20classic%20FLAMES%20relationship%20game;by%20Dhivakar%20A%20V%20%E2%9C%A8" alt="FLAMES" />
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![GitHub](https://img.shields.io/badge/by-dhivakarav-181717?style=flat-square&logo=github)
+
+</div>
+
+🔥 _The classic FLAMES relationship game_
+
+---
+
 # FLAMES: Algorithmic Relationship Processor          
  
 A modern, interactive web application that uses string manipulation and cyclic elimination logic to calculate compatibility based on the classic "FLAMES" game. Built with a focus on clean UI/UX and real-time data tracking.
